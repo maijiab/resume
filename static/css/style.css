@@ -204,11 +204,8 @@ progress::-moz-progress-value {
 .container {
     position: relative;
     margin: 0 auto;
-
-    width: 1050px;
-    height: 1550px;
     background-color: white;
-
+    width: 90%;
 }
 
 .side {
@@ -226,7 +223,7 @@ progress::-moz-progress-value {
     min-height: 100%;
     padding: 20px;
     background: #fff;
-    
+
 }
 
 .info-header:hover {
